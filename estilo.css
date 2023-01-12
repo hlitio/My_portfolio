@@ -218,16 +218,16 @@
         #servicios {
             padding: 100px 15px;
             text-align: center;
-            background-color: #f3f3f3;
+            background-color: #530046;
         }
         
         #servicios .titulo-seccion {
             text-align: center;
             font-size: 22px;
             text-transform: uppercase;
-            color: #111135;
+            color: #fff;
             text-decoration: underline;
-            text-decoration-color: #d3d3d3;
+            text-decoration-color: #fff;
             text-decoration-thickness: 5px;
         }
         
